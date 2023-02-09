@@ -9,3 +9,6 @@
 7 chmod ugo+x give multiple permissions.
 8 chmod 007 - set permissions numerically
 9 chmod 753 - permission piece can be written numerically
+10 chmod reference
+11 chmod -R ugo+x . -Allows permissions in subdirectories
+12 rwx r-x --x = 751 are the permissions assigned to each user group.
