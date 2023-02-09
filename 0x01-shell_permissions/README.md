@@ -12,3 +12,4 @@
 10 chmod reference
 11 chmod -R ugo+x . -Allows permissions in subdirectories
 12 rwx r-x --x = 751 are the permissions assigned to each user group.
+13 chgrp - allows you to change group
