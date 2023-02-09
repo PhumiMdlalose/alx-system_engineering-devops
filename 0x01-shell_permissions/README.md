@@ -5,5 +5,6 @@
 3 chown -changer owner of the file or document.
 4 touch hello -creates empty file called hello
 5 chmod u+x - gives user executing permissions
-6 chmod u+x g+x o+r -allows to set permissions for different users/groups at once
-7 chmod 007 - set permissions numerically
+6 chmod u+x g+x o+r -allows to set permissions for different users/groups at onceI
+7 chmod ugo+x give multiple permissions.
+8 chmod 007 - set permissions numerically
