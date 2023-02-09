@@ -8,3 +8,4 @@
 6 chmod u+x g+x o+r -allows to set permissions for different users/groups at onceI
 7 chmod ugo+x give multiple permissions.
 8 chmod 007 - set permissions numerically
+9 chmod 753 - permission piece can be written numerically
