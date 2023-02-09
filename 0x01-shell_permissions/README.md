@@ -14,3 +14,6 @@
 12 rwx r-x --x = 751 are the permissions assigned to each user group.
 13 chgrp - allows you to change group
 14 chown -R changes files and directories
+15 chown -h changes owner from one to the other respectively
+16 chown --changes owner from one to the other respectively 
+17 telnet 
