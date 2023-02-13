@@ -1,2 +1,4 @@
 #!/bin/bash
-0 cat -lists the content of the file
+0 echo -prints the content of the file
+1
+2 cat -lists the content of the files
