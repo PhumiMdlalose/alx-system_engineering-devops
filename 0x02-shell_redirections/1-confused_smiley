@@ -1,1 +1,2 @@
-echo -e "\U0001F615"
+#!/bin/bash
+echo -e "\U0001F615" # "(Ôo)' confused smiley, U0001F615
